@@ -8,3 +8,6 @@ HTML – Structure of the application
 CSS – Styling and layout
 
 JavaScript – Adding interactivity and playing drum sounds
+
+🔗 Live Demo
+https://riyagh.github.io/Drum-kit/
